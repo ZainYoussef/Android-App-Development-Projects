@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HealthyRecipes</string>
+    <string name="textTitle">Salad Recipe</string>
+    <string name="imgDescription">Image Description</string>
+    <string name="textIngredients">ingredients</string>
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="item3">item 3</string>
+    <string name="item4">item 4</string>
+    <string name="textDirections">Directions</string>
+    <string name="textMix">chop em tomatoes then mix them wit sum cucumber</string>
+    <string name="textButton">show Ingredients</string>
+    <string name="goBackButton">Go Back</string>
+</resources>
