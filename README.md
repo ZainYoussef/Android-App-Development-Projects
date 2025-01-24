@@ -1,17 +1,14 @@
 
----
-
 # Android-Development-Projects  
 
 This repository contains the Android projects I created during the **Android Boot Camp for Developers Using Java** course. Each project is organized into its own folder for easy navigation and use.
 
----
+
 
 ## **Getting Started**  
 
 To install and run any project from this repository, follow the steps below:
 
----
 
 ### **Step 1: Clone the Repository**  
 1. Open a terminal or Git Bash.  
