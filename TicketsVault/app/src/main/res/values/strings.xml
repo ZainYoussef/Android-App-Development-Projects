@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicketsVault</string>
+    <string name="text_title">Tickets Vault</string>
+    <string name="input_hint">Number of tickets</string>
+    <string-array name="spinner_texts">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+    <string name="spinner_prompt">Select Option</string>
+    <string name="image_description">Concert Image</string>
+    <string name="calculate_button_text">Find the cost</string>
+    <string name="output_cost_text">Cost:</string>
+</resources>
