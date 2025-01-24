@@ -1,4 +1,3 @@
-Here’s your updated README file formatted properly using Markdown:
 
 ---
 
