@@ -1,4 +1,5 @@
 # Android-Development-Projects
+
 This repository contains the Android projects I created during the Android Boot Camp for Developers Using Java course. Each project is organized into its own folder for easy navigation and use.
 ---
 ## Getting Started
